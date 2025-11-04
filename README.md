@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Q-Wednesday
-- 👀 I’m interested in C++, Golang and Kubernetes
-- 🏢 I’m working for TigerGraph
+- 👀 I’m interested in Golang and Kubernetes
 - 📫 How to reach me: yh_qiu18@163.com
 
 <!---
